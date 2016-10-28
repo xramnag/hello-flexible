@@ -1,2 +1,3 @@
 # hello-flexible
-tryout
+print "Hello GitHub"
+
